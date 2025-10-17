@@ -1,0 +1,881 @@
+﻿Title,Author,Upvote,URL,text
+I am looking for software that helps me file documents.,kennethberlin,1,https://www.reddit.com/r/software/comments/1o123ds/i_am_looking_for_software_that_helps_me_file/,"Introduction
+
+Some of you are probably familiar with this situation. You want to save a file and start thinking: Where should I save the file?
+
+I now have a structure and a certain routine, while my colleagues save files somewhere on the server. My highlight was when I found out how a colleague had created five folders with the same content on several hard drives. 
+
+
+
+Software
+
+My file names are structured as follows:
+
+Category Title Project Company Index or Date
+
+My folders are organized by project
+
+It would be great to have a program (not cloud-based) that asks me to select from a menu when saving: Project --> Click Project Z; Category --> Click; Finally, Title and Index.
+
+When I click on the predefined selection, it gives me a suggestion for the storage path next to the file name. I have defined this in the “program.”
+
+
+
+This speeds up filing and prevents files from being stored anywhere.
+
+
+
+I haven't found anything yet. Only paperless ngx. I haven't tried that because I work directly on drives and network drives in Windows."
+Support our software on Product Hunt!,Bling_Cloud,1,https://www.reddit.com/r/SmallBusinessProblems/comments/173w1mj/support_our_software_on_product_hunt/,"Hey there!
+
+Bling is a software that helps businesses manage all their customer communication in one single place powered by a unified inbox, VoIP business phone and an inbuilt CRM. We are backed by Techstars Atlanta powered by JP Morgan.
+
+We offer Sales Dialer, VoIP based Business phone, IVR, Call Queue, Call Recording & Forwarding, Live Call Transfer, Click to Call, Call whispering, Smart CRM, Integrations (with Social media,Google Gmail & calendar,Calendly, zapier, hubspot, pipedrive) Feature at one place.
+
+Did we mention we're now on Product Hunt? Follow us there-- we'll be announcing some VERY exciting news soon!
+
+Product Hunt: [https://www.producthunt.com/@blingcloud](https://www.producthunt.com/@blingcloud?fbclid=IwAR0a7eliIlVALUY66RS2foPAH_7f2j7dzS3lwLuo569BUrBfVBLUj8yrNBU)
+
+We'd love to connect with you as well-- leave your Product Hunt links below!
+
+https://preview.redd.it/l8qqaq2qd7tb1.png?width=1080&format=png&auto=webp&s=2da677f98f1efaa430e749582baece5d4468d7d7"
+Just built a tool that turns any app into a native Windows service,AdUnhappy5308,1,https://www.reddit.com/r/software/comments/1o11xd4/just_built_a_tool_that_turns_any_app_into_a/,"Hi all,
+
+I built Servy, a Windows tool that lets you turn any app into a native Windows service with full control over working directory, startup type, process priority, logging, health checks, environment variables, dependencies, pre-launch and post-launch hooks, and parameters.
+
+Servy lets you run any executable as a windows service, including Node.js, Python, .NET apps, scripts, and more. It allows you to set a custom working directory to avoid path issues, redirect stdout and stderr to log files with rotation, and includes built-in health checks with automatic recovery and restart policies. The tool features a clean, modern UI for easy service management, and is compatible with Windows 7 through Windows 11 as well as Windows Server.
+
+Servy continuously monitors your app, restarting it automatically if it crashes, hangs, or stops. It is perfect for keeping non-service apps running in the background and ensuring they start automatically at system boot without having to rewrite them as services.
+
+Check it out on GitHub: [https://github.com/aelassas/servy](https://github.com/aelassas/servy)
+
+Any feedback is very welcome."
+Most reliable VPN Chrome extension,Maximum-Ad3032,16,https://www.reddit.com/r/software/comments/1o0e9b1/most_reliable_vpn_chrome_extension/,"I've been testing out different VPN Chrome extensions for browsing and streaming, and I'm trying to find one that's both fast and secure. Some of the free ones feel super sketchy, and others just kill my internet speed completely.
+
+I'm open to paying for one if it's worth it. Just want something that works well for everyday use, unblocks streaming sites, and doesn't constantly disconnect.
+
+Anyone here have a favorite VPN Chrome extension they use?"
+Looking for a good uninstaller to use with Windows 11.,patata49,9,https://www.reddit.com/r/software/comments/1o0hv9f/looking_for_a_good_uninstaller_to_use_with/,"I like to try software on my PC. Some is left there to use, most is uninstalled and discarded. Over the years those uninstalled applications have seemingly left files or registry values behind that bloat the system. I have tried several uninstallers, but I am not sure if there is a ""gold standard"" with which to compare. I would appreciate the opinions of the members on this subject. In your experience, which is the ""best"" uninstaller in a Windows 11 OS? "
+Anyone here using Allavsoft Video Downloader? What’s your experience?,limsus,1,https://www.reddit.com/r/software/comments/1o0yq8n/anyone_here_using_allavsoft_video_downloader/,"I recently purchased Allavsoft Video Downloader after seeing a few positive mentions online, but there isn’t much real user feedback out there.
+
+If you’ve been using it for a while — how’s your experience with it? I’d really appreciate honest opinions before I rely on it for my daily downloads."
+Lost files,thebe000,2,https://www.reddit.com/r/software/comments/1o0rex1/lost_files/,"(Im writing this here bc some people in r/photography said its not recoverable)
+I usually use my SDHC card with my own camera, but recently I put it into a completely different camera and took a few photos with it. The card is only 4GB, and the other camera takes photos that are around 128MB each, so it filled up almost instantly.
+
+After that, I put the card back into my own camera and took a few more pictures. But when I checked the files on my computer, the card seemed half empty — and neither the photos from the other camera nor the ones I took afterward were there.
+
+I later learned that I should’ve formatted the card before using it in another camera. Some of the missing photos still show up when I browse the card through my camera, so they’re not completely gone.
+
+Is there any way to recover those missing photos?"
+so im currently working on like my own version of omegle,Feisty-Ad534,1,/r/omegle/comments/1o0vet0/so_im_currently_working_on_like_my_own_version_of/,
+Any other browser-based Distro/VNC PC sites similar to DistroSea and OnWorks?,burai1992,1,/r/virtualization/comments/1nyxki3/any_other_browserbased_distrovnc_pc_sites_similar/,
+Best Youtube to MOV converter?,Particular_Style6393,1,https://www.reddit.com/r/software/comments/1o0r868/best_youtube_to_mov_converter/,"Hi all! I know this is truly asked all the time. I've been combing reddit and trying every option listed but they either only convert to MP4 (and I need MOV/Quicktime) or are scammy or do not work.
+
+  
+Any advice? Thank you!"
+i need help donwloading spss ibm software,East-Mushroom-2803,1,https://www.reddit.com/r/software/comments/1o0r78i/i_need_help_donwloading_spss_ibm_software/,"hello all, so i ended up on this subreddit and hopefully this is the right community to ask this in, so basixally my university gave us a zip file of ibm to download for spss psychology, and it just does not, when it is loaded it says  this:  i have a deadline for asignments approaching i'd appreciate your help a lot 
+
+https://preview.redd.it/2644qa7n7rtf1.png?width=722&format=png&auto=webp&s=400f4fa0df6c26f5b7c269e5a5115ed44acdcfcb
+
+"
+How to cap fps with least input lag?,bajwaboi,1,/r/ValorantTechSupport/comments/1o0q31j/how_to_cap_fps_with_least_input_lag/,
+Real time browser project,Many_Interest5683,0,https://www.reddit.com/r/software/comments/1o0psmy/real_time_browser_project/,"As a budding software developer, I’m working on a chrome extension that sees and listens what’s happening on a chrome tab you allow it on, and can proactively help with whatever you need, eg take some action, guide you on next steps etc. 
+
+what use case can this be useful in?"
+Looking for a Url extractor,Devilslave84,0,https://www.reddit.com/r/software/comments/1o0oyq2/looking_for_a_url_extractor/,"I need a program etc that lets me get a whole page or more of Urls at once from [nhentai.net](http://nhentai.net/) and copy to clipboard etc so i can paste them in my download program without having to manually go through it one by one clicking them , ive already searched google and didnt find any decent ones"
+Print from Android mobile to non WiFi printer connected to Windows PC in same WiFi Network,praview,0,https://www.reddit.com/r/software/comments/1o0knr9/print_from_android_mobile_to_non_wifi_printer/,"My PC and Android mobile in same home WiFi. Normal non Wifi Printer is connected to PC. I want to print PDF or images from mobile without transferring the file to PC.
+
+I am currently usingPrinterShare App on mobile and same software on PC. It is working super fine. But the free version can only print total 100 pages and I will soon exhaust the limit. 
+
+I have already tried many apps available on play store but but my printer is not detected. Don't know why. Only this app worked fine.
+
+Is there any other way? My router is running OpenWRT. PC is Windows 11 ."
+Looking for a reliable full-page screenshot app for Windows (paid is fine),limsus,1,https://www.reddit.com/r/software/comments/1o0fapo/looking_for_a_reliable_fullpage_screenshot_app/,"Hey everyone,
+
+I’m looking for a screenshot tool for my Windows PC that can capture full-page screenshots properly. Most of the Chrome extensions I’ve tried just don’t scroll correctly, so the final image is always incomplete.
+
+I don’t mind paying for a solid app if it works reliably. Has anyone found a Windows tool that handles full-page screenshots without issues?
+
+Thanks in advance!"
+Tools similar to SEMrush?,Confident-Warning-51,0,https://www.reddit.com/r/software/comments/1o0enr0/tools_similar_to_semrush/,"So I've been using SEMrush for a while now and I hate that each time the recurring subscription has high payment from before and when I asked them they said it totally depends upon your ""Value Added Tax (VAT) rate applied to your payments. The VAT rate is determined by your country or state of residence as indicated in your billing profile."" I havent changed my place of residence, why the payments fluctuate each month and they only go up?
+
+Another thing is, even when you're exploring other tools, they include it into your next subscription without even keeping us informed.
+
+Looking for SEMrush similar tool (No Href or Moz)"
+Why does converting a simple PDF still feel like rocket science in 2025?,Inevitable_Number276,45,https://www.reddit.com/r/software/comments/1nzo3jp/why_does_converting_a_simple_pdf_still_feel_like/,"You’d think by now converting files between formats would be instant and clean Instead half the tools either mess up the layout or lock behind paywalls I tried cometdoc.com the other day and it was okay but still not perfect.
+
+Is there any tool that actually converts without breaking fonts or alignment or is this just one of those tech frustrations that never get solved?
+"
+Do online editors cover enough for real projects?,Key-Chair-6657,0,https://www.reddit.com/r/software/comments/1o0bzqu/do_online_editors_cover_enough_for_real_projects/,"I’ve been using a browser-based editor for quick videos, and while it’s fine for super simple stuff, I run into limits really fast. Missing features, laggy playback, and not much control over the finer details. Are online tools just meant for the basics, or is there actually a web editor that can handle more serious editing?  
+"
+Runtime issue,Big_Can_8398,0,/r/csharp/comments/1o0b3cu/runtime_issue/,
+Pluriva ERP pare a fi o mare teapa???,ProtonIonescu,0,https://www.reddit.com/r/software/comments/1o0ep74/pluriva_erp_pare_a_fi_o_mare_teapa/,"Hello,
+
+Recent s-a luat decizia in companie sa se treaca la un ERP pe nume Pluriva. Doamne cati bani s-au platit!!!! 
+
+Cel putin pentru noi s-a dovedit a fi o mare greseala pe ff multi bani. Mai nimic nu functioneaza. Fluxuri, comenzi, rapoarte, KPI uri. Presimt ca dam faliment la cat de mult ne-au afectat  CA din cauza problemelor acestui sistem. 
+
+Cei de pe suport fac eforturi colosale sa ne tina pe linia de plutire, dar nu au ei oameni cate BUG-uri apar zilnic. 
+
+As vrea sa stiu daca mai are cineva idee de aceasta companie si daca la voi ""merge Pluriva"" ca sa zic asa?!"
+Looking for onscreen display of heart rate,ImBadAtTarkov,0,https://www.reddit.com/r/software/comments/1o04aoa/looking_for_onscreen_display_of_heart_rate/,"Looking for a (hopefully ootb) software that connects to a heart rate monitor and overlays it on top of a game.
+
+All software for this that I've happened across for this purpose has had one of, or all issues below,
+
+\- Wont overlay over apps
+
+\- Needs a phone as a middle man
+
+\- Is intended for streaming and is only visible on stream/preview.
+
+The best I've found so far is ""Pulse sync"" xbox game bar widget, but it just doesn't render in a lot of cases.
+
+
+
+I've also checked
+
+\-""Jlennox's heartrate"" Which displays on the taskbar so I could play windowed but it's not very immersive.
+
+\-""Uwburn Cardia"" Which I can potentially pin on screen with external software but even with its ""shrink"" option to hide the title bar it's quite bulky and has no transparency settings.
+
+\- ""Pulsoid"" & ""Hyperate"" both of which needed obs and seemingly dont function as an overlay but rather are intended to be imported into an obs scene as their own source. "
+"How do we uninstall a Portable Application on Windows? there is no uninstaller, I don't want to lose data",Many_Variation_,0,https://www.reddit.com/r/software/comments/1o0bf4t/how_do_we_uninstall_a_portable_application_on/,"I have downloaded Ghost Web Browser portable version and installed in my pen drive, I want to update it. and to update it I have to uninstall without deleting the user data, is there any way to do this?"
+“best antivirus for Windows” that actually stops ransomware before it spreads?,Additional-Spread813,0,https://www.reddit.com/r/software/comments/1o03fnf/best_antivirus_for_windows_that_actually_stops/,"I’ve been reading a lot about ransomware attacks lately and it’s got me paranoid. A coworker’s small business got hit and they lost a ton of files, even though they *thought* their antivirus had them covered. I’ve been using Windows Defender for years without issues, but now I’m wondering if that’s just luck.
+
+For people who’ve dealt with ransomware firsthand:
+
+* Did your antivirus actually detect it before things got ugly?
+* Are paid tools really that much better than built-in protection?
+* How much of this comes down to user behavior vs. the software itself?
+
+I’m trying to find something reliable without slowing my machine to a crawl."
+Best anti-virus software? Real world experience needed,Hour_Jello_1853,0,https://www.reddit.com/r/software/comments/1nzz5tm/best_antivirus_software_real_world_experience/,"Running Windows 11 and mostly relied on Microsoft Defrnder, but I keep heaeing mixed things about whether that's enough. Tried Malwarebytes for a second opinion, and it didn’t flag anything, but I’ve had odd mic activity and some sluggishness. Debating if I should add Bitdefender or Kaspersky to the mix, or just stick with what I have. For people who’ve actually used these, what’s been the most reliable option for real threats? Is there a clear best anti-virus software right now?"
+Accountek Connected Core or AccountEdge desktop software,Rude-Owl-3300,1,https://www.reddit.com/r/software/comments/1nzvx02/accountek_connected_core_or_accountedge_desktop/,"I've been using Quickbooks Desktop Pro for many years as well as earlier versions of QBs.  However QB no longer sells their desktop version in Canada (?) and I don't want to use their Online version.  I just need it for very basic bookkeeping, no payroll or inventory.
+
+So I'm looking at Accountek Connected Core software as well as AccountEdge as a replacement solution.  Both seem more affordable than QB which is an added advantage.  Does anyone have any experience with Accountek or AccountEdge software & support (positive or negative) that I should be aware of?  Your comments will be appreciated!"
+Stopped letting AI design from scratch and my Bolt projects actually look decent now,Comfortable-Risk9023,1,/r/vibecoding/comments/1nzt4aa/stopped_letting_ai_design_from_scratch_and_my/,
+Ask the best pages to take down Macropay,Delicious_Scene1748,0,https://www.reddit.com/r/software/comments/1nzzfzi/ask_the_best_pages_to_take_down_macropay/,?????
+does anyone know a good free pdf editor?,Comfortable_Half_437,0,https://www.reddit.com/r/software/comments/1nzsoaq/does_anyone_know_a_good_free_pdf_editor/,"it's important that it has to have the ability to create, edit, and remove sections for the PDF. software or browser based it does not matter. by sections i mean like the picture attached. Sorry I do not use reddit very much
+
+https://preview.redd.it/hmju09hwkktf1.png?width=213&format=png&auto=webp&s=530f3da741f4c0437f957733f1eab4e10a2d41fc"
+Winrar test function,Turbulent_Math4498,0,https://www.reddit.com/r/software/comments/1nzpbz2/winrar_test_function/,"WinRar has a ""test"" option for corrupted files. Does this option only work for compressed rar files? Does it not efficiently test 7z, xz, and zip? Is it necessary to have multiple software from each format developer to test?"
+RIP Pocket... Don't lose your data! 3 days left until shutdown.,Pecc,42,https://www.reddit.com/r/software/comments/1nyyiur/rip_pocket_dont_lose_your_data_3_days_left_until/,"**The popular read-it-later app, Pocket is officially shutting down on October 8th**, and every link you’ve ever saved will be **wiped forever**.
+
+You should export your data now! I put together a short, easy-to-follow version of the official guide here (because who actually reads support docs?):
+
+[https://justbookmark.it/for-pocket-users](https://justbookmark.it/for-pocket-users)
+
+If this helps at least one person save their stuff, my job here is done."
+Is there a software to group photos by dimension in their own folders or sort those image next to each other? I have Windows and use File Explorer.,Commercial_Candy_953,1,https://www.reddit.com/r/software/comments/1nzkyjy/is_there_a_software_to_group_photos_by_dimension/,I have a folder of photos all in different dimensions and I want to group them by the photo dimension of the photo and maybe put them in their own folder or at the very least have them sorted so the images with the same dimension are placed next to each other so they aren't a mixed of dimensions. I have over 5000+ photo in this folder. 
+Looking for TinyVid - Video Compressor AND Cutter | Or an alternative,SnowgemNS,1,https://i.redd.it/09h0l53yqhtf1.png,"Hi everyone,
+
+I'm trying to find a video tool that can **cut videos** and at the same time **export them to a target file size** (for example, 50 MB for Discord). 
+
+I used to know about **TinyVid** by Kamua which was PERFECT for this job, but their website shutdown. The picture is how TinyVid looks like.
+
+Does anyone know a working download for TinyVid, or can you recommend a reliable alternative that allows both cutting and exporting to a specific file size that I can input. 
+
+I care about ease of use more than quality.  
+
+Thanks in advance!"
+Best anti-virus software? Still worth paying for in 2025?,ComprehensiveCut6111,1,https://www.reddit.com/r/software/comments/1nzg9d5/best_antivirus_software_still_worth_paying_for_in/,"Running Windows 11 with Microsoft Defender active and Malwarebytes free as a backup scanner. I’ve tried Bitdefender and Kaspersky in the past but always ended up disabling them because they felt heavy or nagged too much. With all the recent phishing and ransomware stories, is there any real benefit to switching from Defender to a paid option now? For those who use Bitdefender, Kaspersky, or something like ESET, what’s made you stick with it? What’s the best anti-virus software for low system impact and reliable detection right now?"
+Search Alternative like File Locator Pro and Agent Ransack.,darkish_explorer,2,https://www.reddit.com/r/software/comments/1nzcnsy/search_alternative_like_file_locator_pro_and/,"Hello all,
+
+I'm looking for an Alternative to File Locator Pro or its alternative Agent Ransack. 
+
+I would like to search for text inside all kinds of files, as well as specify file sizes (above, between, below), dates and if possible search by Regex. Windows 10 and Windows 11."
+Is screenify screen recorder good free alternative to bandicam for gameplay recordings help,liquidocelotYT,0,https://www.reddit.com/r/software/comments/1nzg3qa/is_screenify_screen_recorder_good_free/,I tested screenify to record some gameplay it is working but I just wanted to make sure that this software is good alternative to OBS studio which is really confusing for me help. 
+Need advice for first client meeting — nursing website + staff scheduling system,Adventurous_Sir1504,0,https://www.reddit.com/r/software/comments/1nzfoau/need_advice_for_first_client_meeting_nursing/,"Hey everyone,
+
+My team and I are starting our graduation project, and we have our first meeting with the client soon. The project involves creating two systems for a hospital’s nursing department:
+	1.	A Nursing Website to share updates, resources, and announcements.
+	2.	A Staff Scheduling & Daily Staffing System to replace their current Excel-based scheduling.
+
+This meeting is our first meeting with the client. 
+
+I’d really appreciate any advice or tips from people who’ve handled client meetings or project planning before:
+	•	What are the most important things to ask or clarify in the first meeting?
+	•	What should we focus on to make a good first impression?
+	•	Any common mistakes to avoid when meeting a client for the first time?
+
+Thanks in advance for any help or insight."
+Free Remote Desktop with the following requirements,Most_Original8110,0,https://www.reddit.com/r/software/comments/1nzc5eh/free_remote_desktop_with_the_following/,"Hello,
+
+I am looking for a free remote desktop software with the following requirements:
+
+  
+1) Should have relatively low latency. I am using it to start/stop, sometimes fix bots in an online game
+
+2) Should be able to save remote addresses and connect to them without confirmation from the other side
+
+3) Should be reliable, as in always connecting
+
+  
+I've tried AnyDesk - recently they started spamming ads which get worse over time, reaching 1000 seconds. I know this is fixable with a script to delete a bunch of files, but then you need to establish connection to all your other machines from scratch
+
+  
+RustDesk - it won't let you save addresses and uses a one time password
+
+  
+Parsec - it's good, but sometimes it refuses to connect for hours on end, which is crucial for me.
+
+
+
+Any suggestions? 
+
+Regards"
+[OC] TICC-DASH - lightweight Chrony clients dashboard (formerly “Chrony NTP Web Interface V2”) - repost with correct links/info,ReportMuted3869,1,https://www.reddit.com/gallery/1nzaywk,
+What to use after Windows 10 support ends?,DaveQBS,0,https://www.reddit.com/r/software/comments/1nzavze/what_to_use_after_windows_10_support_ends/,"I recently got a new PC with Windows 11 but that doesn't mean I've stopped using the two laptops I've had for a dozen years now; one especially goes remarkably well for having seen pretty much constant use over all this time. They both started with Windows 8, later upgraded to 10.
+
+With Win10 support from Microsoft ending soon and no ability for the laptops to be upgraded to 11, I've been wondering if some functions would be better replaced by something else now. Of course, CommonSense is always the most powerful software but you can never be too safe. At least some virus scanning software would be great, especially if free / open source. Recommendations for that, and any other useful software, are welcome.
+
+[I have considered trying Linux but at least for now there's too much Windows-based I still use on the laptops. By the end of the year I may get another old laptop to possibly experiment with - it was used by my late grandma, then by my late father. I'm sure it's safe.]"
+Music Players that have Visualizers?,Maybe_A_Zombie,0,https://www.reddit.com/r/software/comments/1nzar5v/music_players_that_have_visualizers/,"Looking for a music player that plays songs from files, allows shuffling, and the usual controls (go back a song, go forward a song, pause play, scrubbing the timeline.. etc) but also has pretty visualizer that arent just bar spectrums? I know VLC supports them but I always run into problems with VLCs visualizers and its just a pain. Would be nice to just have an app only for music with pretty visuals :p  
+What I'm looking for in visualizer is lots of flashy pretty colors, kind of like old school visualizers and not just some bars bumping up and down. Kind of on the same end of VLC goom visualizer   
+Linux Ubuntu btw! "
+Looking for a software,Nexityyyy,0,/r/cashregisters/comments/1mvj3fk/looking_for_a_software/,
+Stay away from iMazing (detail inside),Oddboyz,1,https://www.reddit.com/r/software/comments/1nz7nuw/stay_away_from_imazing_detail_inside/,"This is a review on iMazing [3.4.0.6](http://3.4.0.6) free-trial version (the current version as of today).  
+
+
+**Summary:**   
+A total PoS software that can potentially break your device even if you've done things right. You cannot alter/move/delete the files transferred from PC to Apple device. The operation will fail - specifically the app will say it 'cannot detect the album/folder' despite the fact that the albums/folders in question are shown both in the app and the Apple device! Other times, the app will just freeze/run in loop.
+
+Their tech support answer \~90% of the issues with either 'restart your computer', 'restart your Apple device' or 'turn off iCloud service' which obviously did not work based on the users' feedbacks on their forum and here in Reddit.  
+
+
+**Context:**   
+Since Apple has been a total baloney^(\[1\]) of a company that make everything extraordinarily complicated for the general users especially when it comes to cross-platform ^(\[2\]), I've been trying since 2009 to get my old iPad1 to work with simple file import/export (JPG, PNG, PDF and MP4)^(\[3\]).  
+  
+Yesterday I've noticed a few Reddit users suggesting iMazing app and I decided to give it a shot (obviously my fault for rushing it without diving deep enough).  
+  
+So I needed to import family photos & some PDF reading materials from my PC to my old iPad1 and then give it to my cousin so she can take it with her on a trip where internet connection might be limited.  
+
+
+**First impression:**   
+iMazing app looks great on windows10, the UI is intuitive & clean and the tooltips pretty well-explain. However, that's the only good thing I've got to say about this broken app.  
+
+
+**Issues:**   
+So I've managed to transfer a PDF file and about 30 photos from my PC to iPad1. ""Hey, that was quite straightforward"" I said to myself.
+
+However, I've made a mistake adding a few irrelevant files to the iPad so I thought ""I'd just delete these"". WRONG! You cannot delete those files. You can see those files on both the app screen and the Apple device, but when you press the delete button the app will either freeze, run in loop or say something like  'cannot detect the album/folder'. And you cannot delete those PDFs/images from your iPad either because there's no delete button for those files.
+
+And since I've exhausted the trial's upper limit while trying to fix the issue, now my iPad1 is stuck with a few junk albums and some embarrassing standalone files  
+
+
+**Footnotes:**  
+\[1\] Lesson learned 6 months after I've purchased my iPad1.  
+\[2\] Eg. very simple tasks like basic, direct file transfer between PC and apple devices.  
+\[3\] Yes, my ipad1 is still in a very good condition."
+Any way to fix?,throwawaying6942o,0,/r/iphone/comments/1nz68vh/any_way_to_fix/,
+"I don't recognize these logos, can you help me?",BDKatoa,4,https://www.reddit.com/gallery/1nysprh,"""I'm curious to know: based on the logos, can you tell me which programs they belong to and what each one does? I haven't been able to find them online, thank you."
+Quit construction at 21 for freelancing and it worked out.,sicksarkee,2,https://www.reddit.com/r/software/comments/1nyy5l6/quit_construction_at_21_for_freelancing_and_it/,"so im 21 and i run an automation agency now. was doing construction since i was like 17 and honestly thought id do it forever lol
+
+**how it started:** construction was killing my back and i was tired all the time. randomly saw a youtube video about n8n and automation, started learning it at night. took me forever to understand it but i just kept going
+
+started freelancing on upwork and fiverr doing basic stuff. first client paid me $300 for a simple workflow and i was hyped 
+
+**the linkedin automation helped me the most**
+
+this is one automation that helped me find most of the clients.
+
+here's what i built (see the screenshot):
+
+* runs on a schedule every night
+* scrapes data with Apollo API thru Http request node.
+* AI model scores each lead 1-70 based on their criteria
+* only stores the good leads (score 65+)
+* Counts pages so it never gets same data.
+
+this was one of the first automations i have built and it has really done me wonders, no matter how simple it is
+
+**things i learned:**
+
+* being 21 with no degree doesnt matter if you solve real problems
+* construction actually taught me alot about work ethic and dealing with clients
+* you dont need to be a programmer, just figure stuff out
+* charge less at first, build testimonials, then raise prices
+
+now i have 4 clients on monthly retainers and im making more than i ever did in construction. quit about 4 months ago
+
+if your young and think you need experience or whatever, you dont. just start building
+
+https://preview.redd.it/nvfiebr3lctf1.png?width=886&format=png&auto=webp&s=d683576153ecb26bbbfca4f768f5a3646c042759
+
+"
+What AI tool subscriptions do you actually keep?,Ok-Farmer-6264,6,https://www.reddit.com/r/software/comments/1nynlel/what_ai_tool_subscriptions_do_you_actually_keep/,"I'm struggling with this right now. I have too many AI tools with overlapping features, and it's getting expensive.
+
+Like, I can't justify paying for ChatGPT Plus, Perplexity Pro, Claude Pro, AND Gemini Pro all at once. But here's the problem - they're each the best at different things, so it's hard to pick just one.
+
+And that's not even counting all the other AI tools out there: Cursor, Windsurf, ElevenLabs, Notion AI, Poe, DeepSeek, Zapier, Canva, Murf AI, and so many more...
+
+So I'm curious - what's your current AI tool stack? Which subscriptions do you actually keep active, and what do you use each one for most of the time?
+
+I need to cut down but don't want to lose the tools I actually need.
+
+Thanks!"
+Digital Toolbox,ReferenceDue6757,0,https://www.reddit.com/r/software/comments/1nz47ft/digital_toolbox/,"Which digital toolbox do you use to save your tools? If you do not use one would you like to have one that you can save your tools, showcase your own and discover more amazing tool?"
+Best password manager?,Money-Start-6664,3,https://www.reddit.com/r/software/comments/1nyoqhm/best_password_manager/,"Bitwarden, nordpass, 1password, proton - Came across these as the top password managers. Which one would you recommend me?
+
+I need it mainly to store passwords for dozens of social media accounts for my marketing agency. Also for my personal stuff."
+I need help finding the software about mobile gaming.,Apollo_thedumbassfur,1,https://www.reddit.com/r/software/comments/1nyxt8e/i_need_help_finding_the_software_about_mobile/,"Im looking for a software for games that has following features. But I'm not looking for a game 'booster' that ""increases Wi-Fi speed"" since almost all of them are scams/malware: 
+
+•Custom crosshairs/probably custom widgets or icons while i play games because why not :-) 
+
+•Wi-Fi/performance monitoring. •Be able to download games in the background because.
+
+ •And have optional plugins in the app but im ok if it have none. 
+
+I know this is quite  demanding specifications I'm asking for but I just need something that at least meet two of the specifications on the list and yes... I'm aware this account is extremely new and this is my first post since i lost my old account because i forgot my password and didn't add my email.
+
+
+
+"
+Should I change my windows to Linux?,Madumaa13,0,https://www.reddit.com/r/software/comments/1nz3sk7/should_i_change_my_windows_to_linux/,I mainly use my pc to play Roblox and steam games (like gd)
+Suggest ideas about Final year projects,Inevitable_Aside_245,1,https://www.reddit.com/r/software/comments/1nyurmc/suggest_ideas_about_final_year_projects/,"Hey everyone hope you are doing well 😊.
+I am student of software engineering.I Need some ideas about my final year project.can anyone suggest me some ideas which will help in my fyp.
+Drop a comment."
+List interesting current applications.,Accomplished-Sky685,1,https://www.reddit.com/r/software/comments/1nyti5t/list_interesting_current_applications/,Explain the functionality objectively.
+Which AI avatar creation tools are you using for your product?,ChrisJhon01,1,https://www.reddit.com/r/software/comments/1nylskg/which_ai_avatar_creation_tools_are_you_using_for/,"I have tried many AI tools that can generate AI avatar videos, such as Heygen and Arcads. However, since everyone is writing about these tools, I have also tried them. Nevertheless, these tools are not worth it, considering their hype in the market. I don’t know why, but they seem like an AI cartoon is speaking the script. 
+
+Things on the internet are moving fast, and you need to know everything that works best. Is there anything better than arcads, heygen currently? One of my main issues with them is that they are not clear in looks, rendering is worse than a turtle crawling.
+
+Ideally, I want an avatar speaking multilingual voice-over with different accents, something that has an editor built in, where I have the freedom to edit my video. If anyone has a tool that can do this, I would appreciate your help. If I like the tool, I am ready to pay for that too, as I am a startup and my time is really limited, and I want videos in bulk with AI."
+bitlocker affects performance ?,Flaky_Cap_9403,1,https://www.reddit.com/r/software/comments/1nyl8cf/bitlocker_affects_performance/,"Does BitLocker affect hard drive performance? For example, if I put it on a drive for everyday use with Windows installed?
+
+Is there another way to protect the hard drive without losing performance? I don't want to lose any performance."
+How do I make respondus lockdown browser work on arch linux?,navblued,1,https://www.reddit.com/r/software/comments/1nykmvz/how_do_i_make_respondus_lockdown_browser_work_on/,
+Has anyone ever used Syncplay before?,ResidentWaifu,3,https://www.reddit.com/r/software/comments/1nye0v1/has_anyone_ever_used_syncplay_before/,"And has anyone had random users join your screening rooms before? 
+
+For anyone that doesnt know, Syncplay is a media player that also allows two different PCs (or mobile devices) to watch videos at the same time and both users can control the audio and playback. 
+
+Never in my 3 years of using Syncplay were random uninvited people able to join my room. Extremely weird and I uninstalled the app.
+
+
+"
+Is there a program to create multiple hotkeys that click the screen at different coordinates?,D4rrre3nWorr3n,3,https://www.reddit.com/r/software/comments/1nycgdv/is_there_a_program_to_create_multiple_hotkeys/,"I want to know if there is a software that can make buttons like 1, 2, 3, 4, 5, etc. make a click on the screen.
+
+Kinda like Autoclicker's ""Pick location"" function but for more than one spot"
+I am looking for a floating note type of software BUT in checlist form,Maximum_Space_2233,1,https://www.reddit.com/r/software/comments/1nygklr/i_am_looking_for_a_floating_note_type_of_software/,"So I know sticky note and many other similar type exist, but I am really looking for a spread sheet type of thing, does this exist?"
+Tasket++ — simple GUI for automating user actions on Windows. Free and open source.,AmirHammoutene,45,https://www.reddit.com/gallery/1nxpf0s,"Use cases you’ll actually want:  
+\- Take silent screenshots in a loop at startup to monitor activity    
+\- Send a message through any app at a scheduled time    
+\- Reproduce precise mouse clicks and typed input for testing or repetitive tasks    
+\- Prevent AFK detection with realistic simulated activity    
+\- Fade audio and shut down the PC on a schedule for sleep routines    
+\- Create reusable automation presets and run them on demand or at boot
+
+No scripting required. Actions run locally on your PC and can loop, trigger at startup, or run on a schedule. Share ideas, presets, or bugs on GitHub.
+
+Get it on the Microsoft Store: [https://apps.microsoft.com/detail/xp9cjlhwvxs49p](https://apps.microsoft.com/detail/xp9cjlhwvxs49p)  
+
+See the source: [https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys)"
+Macro tracker recommendations,New-Piglet-5677,1,https://www.reddit.com/r/software/comments/1nyd7nh/macro_tracker_recommendations/,"I'm looking for a piece of software and hope you can point me in the right direction.
+I need a macro nutrient tracking software that:
+- is actual software that runs offline (no saas)
+- doesn't send data anywhere or require an account created somewhere
+- ideally runs on Linux
+- and tells you percentages for the macro nutrients versus a goal/limit for the day or week.
+Does NOT have to be no cost. I'm willing to pay for this."
+Translating text in images- What APPs can I use?,PalpitationOk3689,1,https://www.reddit.com/r/software/comments/1ny9dpw/translating_text_in_images_what_apps_can_i_use/,"I want to translate comics and I can do it in google translate, however there are tools like redaka which allow you to use fonts and it is more intelligent. However it is $1 a page. Is there anything else that is similar?"
+Image viewer that handles subfolders for slideshows (FOLLOW UP),Ned_Gerblansky,2,https://www.reddit.com/r/software/comments/1ny0ne8/image_viewer_that_handles_subfolders_for/,"Hi!
+
+  
+I found this post from 3 yrs ago (by u/orogogus) (it's now 2025) and I think I have what the author would like:  Picasa.  Yes, that old Google Co. app allows you to view all slides in a calendar based timeline and you can scroll thru all of them without stopping amongst i don't know, infinite child folders from the parent folder.  Hell, it also works with NASs as well!
+
+  
+Give it a shot: try on softonic or uptodown.  Keep your antivirus on of course.
+
+  
+here's the old post: [https://www.reddit.com/r/software/comments/ujstdn/image\_viewer\_that\_handles\_subfolders\_for/](https://www.reddit.com/r/software/comments/ujstdn/image_viewer_that_handles_subfolders_for/)"
+What Linux Distro can you recommend for my Thinkpad L490? (except arch),navblued,1,https://www.reddit.com/r/software/comments/1ny5gdx/what_linux_distro_can_you_recommend_for_my/,"arch is being a pain in the ass rn and I really need a distro bc I have school !!! PLS HELP
+
+i also want to be able to customize it without it being a pain in the ass l0ol"
+Major issue with recovering 18 TB of project files – need advice,JianZ95,1,https://www.reddit.com/r/software/comments/1ny4lf5/major_issue_with_recovering_18_tb_of_project/,"Hi everyone,  
+We’re in a really difficult situation and are hoping someone here might have experience or suggestions.
+
+While using **Carbon Copy Cloner**, a mistake happened where *source* and *destination* were swapped, which unfortunately resulted in a large number of files from our documentary project being deleted/overwritten.
+
+We tried recovering the data with **Disk Drill**, which has been running for several days to recover about **18 TB of data**. It did find a lot of files, but most of them seem to be corrupted – they won’t open or play.
+
+We’re looking for advice on:
+
+* Whether there are **better recovery tools** than Disk Drill for handling this scale of data.
+* Recommendations for **professional data recovery services** (preferably in Denmark) with higher success rates.
+* Any ways to **repair corrupted video files**, or if that’s generally a lost cause.
+
+Any input would mean a lot – this project is very important, and we want to make sure we’ve tried every possible option before giving up.
+
+Thanks in advance 🙏"
+Mixline for Mac,sproj003,1,https://www.reddit.com/r/software/comments/1ny3obm/mixline_for_mac/,I've been using Mixline on Windows to have audio from Discord go into Zoom and vice versa but I need a way to do the same thing on a mac. What free software can I use to do this?
+Just released Blogr 0.4.1!,New-Blacksmith8524,1,/r/rust/comments/1nxo39x/just_released_blogr_041/,
+Software to index all sources downloaded / installed and their function,LaurentM007,1,https://www.reddit.com/r/software/comments/1nxtugw/software_to_index_all_sources_downloaded/,"Hello,
+
+I search a software that can index all software downloaded (and or installed if possible).
+
+The goal are then to:
+
+\-can see them by category (example all regarding music, image, windows tools,... ?
+
+\-can search if by example i search for a software that can trim a music, rotate an image, remove red eyes on picture,  
+\-it would can go on internet to extract a description for what the software does.  
+\-can maybe have notification when a newer version is available (and even what's in new release)
+
+\-if it can index software already installed on computer would be useful too.
+
+If not existing.... can we already ask this to an IA to create a software or say us how to do to create a software / script that can do such report by example?
+
+Thanks"
+"Seeking Advice: Python Keylogger for Child Safety (Features, Improvements, and Ethics)",404unknownerror404,0,https://www.reddit.com/r/software/comments/1nxyug7/seeking_advice_python_keylogger_for_child_safety/,"So, my 7-year-old son is getting a gaming PC for Christmas. His mum isn’t the best with computers, and since we’re separated, it’s hard for both of us to keep an eye on him. He’s well above average in computing and maths at school, and he’s joined a coding club, which he enjoys. He’s autistic and trusts people too easily, so I worry he might make mistakes online or be led astray.
+
+I’ve made a small keylogging script with these features:
+
+* **Keystroke Logging with Sentence Buffering:** Captures keystrokes and buffers them into readable sentences, instead of logging every individual letter.
+* **Active Window Tracking:** Logs the title of the window or application where typing happens, to give context to the logs.
+* **Simple Log File Management:** Rotates the log file when it reaches 1 MB, renaming the old log with a timestamped filename.
+* **Trigger Word Detection and Alert Logging:** Checks each logged sentence for predefined trigger words (like “password,” “bully,” etc). When trigger words appear, those entries are saved separately in *trigger\_alerts.txt* for quicker review.
+* **Email Alert System (Prepared):** The script includes email alert functionality, but it’s disabled by default. It can be enabled by toggling a switch and configuring email credentials.
+* **Special Key Handling:** Handles keys like Space, Enter, Backspace, Tab, and others to keep logs clean and readable.
+
+In the future, as he gets older, I’m considering adding periodic screenshots, but I think that’s too much for now. All logs will be kept local, and email alerts will only be sent when certain trigger words are detected to keep us up to date. Apart from that, it’s intended to run quietly in the background—just as an extra layer of monitoring in case we miss something.
+
+The reason I’m doing this is because, as we all know, the internet has become a breeding ground for people who want to harm children, and big companies aren’t doing enough to stop or limit data breaches. If personal info is stored with them, data privacy is a real concern. I plan to add encryption later, so if anyone does access the logs, they’ll need to decrypt them first. This is all with the full consent of his mother and me (his father).
+
+I’ve created this in my spare time as I’m just starting to learn Python—ChatGPT helped a lot, not going to lie. Any advice or feedback on what to improve or include would be great. I know this isn’t a parenting community, but I’m hoping to develop this further and make it better in the future. Thanks for reading!"
+Find your files like in a browser (Like Google Search),EugenioUglov,1,https://www.reddit.com/r/software/comments/1nxre2c/find_your_files_like_in_a_browser_like_google/,"I’ve always struggled with finding my own files, even when I tried to keep everything neatly organized with folders, filenames, and tags. At some point it just turned into chaos, and I thought: *why can’t searching files work more like searching the web?*
+
+That idea led me to build a light Windows tool that do exactly that.
+
+
+
+What it currently does:
+
+* lets you type plain queries (not only exact filenames)
+* ranks results by relevance
+* allows adding custom tags
+* generates some automatic tags from filename/extension/folder
+* lets you attach an image to a file so it’s easier to spot later.
+
+What I’m exploring next:
+
+* AI-based tagging from file content (text, images, etc.)
+* context-aware search (understanding the intent of the query)
+* smarter filtering and prioritization.
+
+
+
+Right now I mainly use it for myself, but I’m curious if others have had the same frustration.
+
+* Do you also find built-in file search limited?
+* What do you usually use to solve this problem?
+
+
+
+If you want to see what I’ve been tinkering with, I put a short demo and write-up here:  
+[https://eugeniouglov.github.io/MyPortfolio/browzifile.html](https://eugeniouglov.github.io/MyPortfolio/browzifile.html)"
+Any software that does what EZgif.com does?,bridgebucket,1,https://www.reddit.com/r/software/comments/1nxr7wt/any_software_that_does_what_ezgifcom_does/,"The most important parts of EZgif that I need are the video 2 apng and frame editor parts. Is there any software that does what EZgif does, or should I just spend a few days creating the thousandth ffmpeg wrapper?"
+Which AI service you have subscribed? Which one you used a lot and recommended?,_janc_,0,https://www.reddit.com/r/software/comments/1nxq67f/which_ai_service_you_have_subscribed_which_one/,"For me:
+
+Midjourney
+Grok
+Gemini
+Cursor
+Kling
+Perplexity
+
+
+
+
+"
+Implementation mistakes that still happen even after AI for the startups I worked at,Certain_Victory_1928,2,https://www.reddit.com/r/software/comments/1nxggtj/implementation_mistakes_that_still_happen_even/,"Worked in startups for 5 years. 
+
+**Seen these 3 mistakes over and over again** that hurt companies or cost 6+ months of rewrites: 
+
+**Premature microservices -** 
+
+3-person team launched with 8 microservices because ""that's what Netflix does.""
+
+Result: 60% of time on DevOps, not features. Ran out of runway.
+
+Fix: Modular monolith first. Split at 10+ devs.
+
+**Wrong database -** 
+
+E-commerce used MongoDB for orders/inventory.
+
+Result: Complex joins in code = 2-second page loads. Lost customers.
+
+Fix: PostgreSQL for relational data. Mongo for unstructured.
+
+**No caching -** 
+
+SaaS hit database on every request.
+
+Result: 800ms response times, $8K/month AWS with 500 users.
+
+Fix: Redis for sessions/queries. CDN for assets.
+
+These days I use socratesai.dev to think through architecture decisions before committing and claude for coding in general.
+
+Helps avoid the ""copy Big Tech"" trap."
+I think a have a virus,raiteque,1,https://www.reddit.com/r/software/comments/1nxmkes/i_think_a_have_a_virus/,"In my browsers i tried going to itch io and it redirected me to a betting site, in both the browsers i tested, i tried going to newground but the browser notify me that the site wasn't safe(same thing happened with itch before i go in it anyway) i tried scanning with windows antivirus and it got nothing, someone told me it can be a net related and i have no ideia how to check for it"
+Transcript search software,Lucky-Royal-6156,7,https://www.reddit.com/r/software/comments/1nx8lfq/transcript_search_software/,I have almost 200 text files of podcast transcripts that I need to search through so I can clip content is there any software that is good for this? Preferably offline for PC and web for my phone. 
+"Are there any free video editing tools/generators where you as the user can do minimal work and the website just ""edits for you or helps you edit""?",Necessary_Wonder1322,0,https://www.reddit.com/r/software/comments/1nxmvl5/are_there_any_free_video_editing_toolsgenerators/,
+Another Faststone query,IBMJunkman,2,https://www.reddit.com/r/software/comments/1nx9env/another_faststone_query/,"Sent emails to [support@faststone.org](mailto:support@faststone.org) on 8/19, 9/4 and 9/28. No response. Documentation for Resizer 4.4 says it supports WEBP as an output format. I don't see it in the dropdown option.
+
+"
+Looking for a program that will allow me to create shortcuts to execute certain tasks within a specific Windows software.,dvaderbmore,3,https://www.reddit.com/r/software/comments/1nx4bp9/looking_for_a_program_that_will_allow_me_to/,"Hi everyone! I have looked online and not having much luck (maybe I am searching the wrong thing!). 
+
+I have a piece of software I use where I have to frequently click on a specific icon. The icon does not have an existing keyboard shortcut so I have to click it each time. I am trying to figure out if there is a software out there that will let me create keyboard or mouse shortcuts to click that specific icon in the software. 
+
+Any guidance is helpful!"
+"Weekly Discovery Thread - October 03, 2025",AutoModerator,3,https://www.reddit.com/r/software/comments/1nwvz5q/weekly_discovery_thread_october_03_2025/,"# Share what’s new, useful, or just interesting
+
+Welcome to the Weekly Discovery Thread, where you can share software-related finds that caught your attention this week - especially the stuff that’s cool, helpful, or thought-provoking but might not be thread-worthy on its own.
+
+This thread is your space for:
+
+* Neat tools, libraries, or packages
+* Articles, blog posts, or talks worth reading
+* Experiments or side projects you’re working on
+* Tips, workflows, or obscure features you discovered
+* Questions or ideas you're chewing on
+
+If it relates to software and sparked your curiosity, drop it in.
+
+---
+
+# A few quick guidelines
+
+* Keep it civil and constructive - this is for learning and discovery.
+* Self-promotion? Totally fine if it’s relevant and adds value. Just be transparent.
+* No link spam or AI-generated content dumps. We’ll remove low-effort submissions.
+* Upvote what’s useful so others see it!
+
+---
+
+This thread will be posted weekly and stickied. If you want to suggest a change or addition to this format, feel free to comment or [message the mods](https://www.reddit.com/message/compose?to=/r/software).
+
+Now, what did you find this week?"
+What is the best app to search files quickly?,Academic_Wolverine22,19,https://www.reddit.com/r/software/comments/1nwlbak/what_is_the_best_app_to_search_files_quickly/,I was doing a little research and came across[ flow launcher](https://github.com/Flow-Launcher/Flow.Launcher). Do you recommend that program? Are there better ptions?
+easy way to rename or mark playing video file,ChestNo90,1,https://www.reddit.com/r/software/comments/1nx2iel/easy_way_to_rename_or_mark_playing_video_file/,"let's say 100 video files are on the que, is there any player software allows you to rename or mark current playing file with one hotkey, so I can check(distinguish) what file it was in a folder of 100 files together? "
+Need to find enterprise platform for Real time speech-to-text with diarization - bad experience so far,Loner_Cat,0,https://www.reddit.com/r/software/comments/1nx08g9/need_to_find_enterprise_platform_for_real_time/,"For an app I'm developing I need to implement real time speech recognition with diarization; since this is not my area of expertise, my idea was to go for enterprise platforms like Speechmatics, Google Cloud and Deepgram - three services that looking on various subreddits come up often as the best.
+
+  
+Well the performance I encountered with these three is pretty terrible. In particular diarization fails utterly: it often attributes part of speeches to the wrong speaker, and sometimes completely switches the roles (i.e. speaker 1 becomes speaker 2 and vice versa, even after minutes of talking), making the application unusable. Speech to text itself contains large amount of errors.
+
+The context is not even that difficult; it's just dialogues between two people, generally in quiet rooms. I can afford to allow for a bit of latency, about 1.5/2 seconds and give up on partial results. Only real source of difficulty is the language, as I have to support non-english languages as italian and french (but separately one from the other).
+
+So, what I wonder is: are there better services? Or is this the industry standard?"
+Open Ear software,HawkGroundbreaking38,0,https://www.reddit.com/r/software/comments/1nwzsvu/open_ear_software/,Does anyone have the open ear software with BP plugin
+Open source LLM quick chat window.,wombat_grunon,1,https://www.reddit.com/r/software/comments/1nwxxjn/open_source_llm_quick_chat_window/,"Can somebody recommend me something like the quick window in chatgpt desktop app, but in which I can connect any model via API? I want to open (and ideally toggle it, both open and close) it with a keyboard shortcut, like alt+spacebar in chatgpt."
+What are Some of the best apps you found in 2025?,FatFigFresh,158,https://www.reddit.com/r/software/comments/1nvxbzo/what_are_some_of_the_best_apps_you_found_in_2025/,"
+Something that gave you a wow 🤩 
+Explain why."
+Sellora – 5-in-1 Responsive Admin Dashboard | FlutterFlow Multipurpose Template,Fun_Race_7782,0,https://www.reddit.com/gallery/1nv61dl,
+I need honest review guys,Amanullahaf,0,https://www.reddit.com/r/software/comments/1nwugti/i_need_honest_review_guys/,"https://preview.redd.it/381lc2qw8vsf1.png?width=1249&format=png&auto=webp&s=41a83eb6a8cbfb5425e244de01f74b5e832bc372
+
+I built this AI tool for creators suffering with finding best hooks for their content. now I am sharing it around, but no one shows interest.... what could be improved?  
+[https://hookgenius.digital/](https://hookgenius.digital/)"
+What’s your go-to file converter?,Lukas367,9,https://www.reddit.com/r/software/comments/1nwfu6k/whats_your_goto_file_converter/,"I recently started using a small desktop one that made me realize how slow the web versions are.  
+Do you guys have a favorite converter, or do you just use whatever’s online?"
+ccleaner and opera gx not working,Available-Fishing-43,0,https://www.reddit.com/r/software/comments/1nwsvw5/ccleaner_and_opera_gx_not_working/,"ccleaner and opera gx have stopped working for me at the same time, i switcxhed to chrome it works. the ccleaner doesnt work when i install it from microsoft store, it just doesnt turn on, and if i try to download it from the installer, when i click the install button, the installer stops responding and nothing happens. And when i turn opera gx on, it takes a long time to turn on and after 5/10 seconds of working, it just stops responding. i have tried every solution i found on the internet and nothing works, please help"
+Software to play videos on Mp3 Player,eddiel01,0,https://www.reddit.com/r/software/comments/1nwsuan/software_to_play_videos_on_mp3_player/,"I bought an SKYBESS HiFi Lossless MP3 Player off amazon and I accidentally deleted the video player firmware. Now it can't play videos anymore.
+
+This is the player i bought. I can't find a customer service I'd rather not have to return it.
+
+So I'm hoping that someone knows what programs are needed to make this player's video player work again.
+
+Thank you
+
+"
+Which software companies deliver the best results in your experience?,Technical_Dig6850,1,https://www.reddit.com/r/software/comments/1nwshbf/which_software_companies_deliver_the_best_results/,"Hello Community! I’m curious to hear from people here about the best software companies around the world.
+
+Which companies do you think stand out the most for their quality of work, innovation, or the way they treat clients?
+
+It could be a big global name or a smaller firm you’ve had a great experience with.
+
+Who would you recommend and why?
+
+Thank you in advance...
+"
+Software to automate window setup?,Fit_Gas_4417,0,https://www.reddit.com/r/software/comments/1nws9o9/software_to_automate_window_setup/,"Is there an app to automate window setup for different needs? Let’s say “work” setup, which will open Slack and other apps, and “leisure” setup which will close unneeded apps and open browser only?"
+Perplexity's New AI Agent Can Actually Use Your Browser - Got Early Access Links (PC/Laptop),1sh_co,0,/r/ReferalLinks/comments/1nwviw0/perplexitys_new_ai_agent_can_actually_use_your/,
+Best software to download apps and games without using Play Store?,alexrere21,0,https://www.reddit.com/r/software/comments/1nwr13b/best_software_to_download_apps_and_games_without/,"Hey everyone,  
+I’m looking for a reliable app or software that lets me download Android apps and games without going through the Google Play Store. Some apps aren’t available in my region or get removed from the Play Store, so I’m hoping to find a good alternative.
+
+"
+FreeCommander XE 2025   Build 921 32-bit public,DukeOfUkes,1,https://www.reddit.com/r/software/comments/1nwonk6/freecommander_xe_2025_build_921_32bit_public/,"I have used this wonderful program for many years, and it has been a joy. I recently updated to Windows 11 and have noticed a strange issue. I was about to adjust my hosts file to ban some ad serving sites and found that I could not view it at all. Upon investigation, I have found that the Windows/System32/Drivers Folder holds 608 files in 9 folders, but FCXE only shows 4 Files and 3 folders. I have checked in Explorer, Double Commander, One Commander and Q-Dir. All show the Folders correctly. I am not aware of any filters or other changes I have in place which may have caused this issue. I am not looking at the Windows.old folder created after the update. I did join the Free Commander Forum, but after 2 weeks have still not been authorised to post, so I am hoping that someone here may have some suggestions. My major concern is that there may be other Folders where I am not aware of this occurring - but it may be. Thanks in advance."
+free software to organize and categorize 7000+ photos (windows)?,bichonoturno,5,https://www.reddit.com/r/software/comments/1nw50ks/free_software_to_organize_and_categorize_7000/,"is there any **free** program that lets me organize my photos into categories like landscapes, group photos, sky photos, etc (including nsfw photos as well), and also handle things like duplicate photos? my google photos has over 7000 pictures and i want to get everything organized. "
+Looking for a Software,lizzythemermaidsloth,2,https://www.reddit.com/r/software/comments/1nwebr9/looking_for_a_software/,"Hi! 
+
+Any advice or help would be appreciated. 
+
+I work for an adult day program company and we are looking for a program that can help simplify our scheduling of our spaces. We have lots of rooms that we can send groups of our participants and staff to, but each room can hold a different amount of groups. We also can send groups on outings, but we could label those as a room, since we can only send a set amount of participants on each outing. We only need the service to assist us with booking the rooms because we can distribute them to our staff. We just need to be able to see all of our room and booking options and be able to plug in groups in the available spots. 
+
+We looked into MindBody, but on our call with them they believed we would be paying too much for services they have that we will not use. I found one called Kadence that I will be calling tomorrow to book a possible demo, but we are unsure. 
+
+If you know anything about a software that would be able to assist with this that would be appreciated, thank you so much! "
+live polling software that narrows down,fanaticalferret,3,https://www.reddit.com/r/software/comments/1nw9pmi/live_polling_software_that_narrows_down/,"for context, I am hosting a panel at a convention which is a sing along and I thought it would be fun for the crowd to vote on which song to do next. 
+is there any (ideally free) polling website or app that people could go to a simple link/QR code and vote without logging in or paying anything or having to download an app. the vote would start with a list of songs and they can vote on which song should go next. ideally i’d like the results to update live on the big screen so people can see as they vote which songs are winning. then when a song wins, it should show the result, then i could start the poll over with the previous winning song no longer an option? 
+
+if the narrowing down thing isn’t out there, i could also just keep track of what songs we have already done/hope that people don’t keep voting for the same songs lol, and in that case, maybe just google forms would work? 
+thanks!"
+VHS conversion software,cemetery_travel916,0,https://www.reddit.com/r/software/comments/1nwir70/vhs_conversion_software/,"I’m really into converting VHS to digital for roughly 7 years now. The main program I use is called “Corel Easy VHS”. The program only converts in MPEG-4 which seems to be pretty much none existing nowadays. I’d use an old version of FreeMake to convert the MPEG to Mp4 on my old laptop that still uses Windows 7. This week FreeMake has been glitching when I try to start it up. I did a bit of research here on Reddit and found that VLC can convert the MPEG’s to Mp4. I’m still learning the ropes to the program. My problem is that when I converted my digital VHS MPEG files to Mp4, they would come out distorted and have different shades of green.
+
+ 
+
+What am I doing wrong with VLC? Is there an alternative to converting MPEG to Mp4 using a different program or online program? Is it possible just to convert VHS to Mp4 and if so how do I do that? Thank You! "
+Health IT,NoRecover3055,0,/r/Kenya/comments/1numm02/health_it/,
+I built a desktop app for listening Storytel audiobooks,debba_,1,https://github.com/debba/storytel-player,
+old apk of this app,albmod1,0,https://www.reddit.com/r/software/comments/1nwdk6u/old_apk_of_this_app/,"im looking for an old apk of this app
+.
+https://play.google.com/store/apps/details?id=com.secondphone.virtualnumber
+
+who can find please i will be more than grateful"
+Need recommendation: Project Database Software for Business Development,ClutchController,0,https://www.reddit.com/r/software/comments/1nwc4gw/need_recommendation_project_database_software_for/,"Hi everyone, I could use a recommendation for software. I work at a VERY small consulting company (about 20 people total). Because we're so small, we don't have a dedicated business development or proposal development team, so we all contribute to writing proposals to win contracts. Where we all get stuck is finding work samples/case studies that align with what the contract is asking for. Even though we're a small company, a lot of us are really isolated in our areas of work, so we don't know who is doing what...and also most of us have no idea what projects have been historically done. I want to make a recommendation to my company to get a software to help us out here. Ideally it would:
+
+1. Contain project name, description, timeline, and contact info for a reference
+2. Even better if we can tailor more than one description field to highlight the work from certain angles (e.g., we have projects where we do compliance and community outreach, so being able to label those narratives separately would be a big help)
+3. **Most importantly:** Tags/filters for project types. Again, a lot of projects have multiple elements like Facilitation, Community Engagement, Training, Compliance, etc., so being able to filter by those areas of work would be the biggest help for when we're writing a proposal that wants us to highlight specific experience.
+
+Thanks in advance!"
+What’s the biggest pain point you face working with data tools today?,parzilon,1,/r/askdatascience/comments/1nukoyc/whats_the_biggest_pain_point_you_face_working/,
+Whats the best face changing software you have actually used and what do you like about it?,akella,5,https://www.reddit.com/r/software/comments/1nvyb9v/whats_the_best_face_changing_software_you_have/,"What is the best face changing software you have personally used? Did you like it more for photos, short videos or both? What stood out to you realism, speed, ease of use or just being fun?
+
+Would love to hear actual experiences"
+What 2026 Software Updates Are You Hyped For?,bigdinerplate,0,https://www.reddit.com/r/software/comments/1nwc9dh/what_2026_software_updates_are_you_hyped_for/,"2025 was wild with AI tools and open-source surges (shoutout LibreOffice's comeback!). Looking ahead, what updates have you on the edge of your seat?
+
+For me, I'm dying for quantum computing's leap into everyday apps, like IBM's Qiskit upgrades making error-corrected quantum simulations accessible for devs. Imagine debugging complex models in minutes instead of days. 🤯   
+  
+What's your big 2026 bet? Explain why it’ll blow your mind!"
+Best motion graphics software for a mid-end PC?,Video_Editor_Pk,1,https://www.reddit.com/r/software/comments/1nw4rsb/best_motion_graphics_software_for_a_midend_pc/,"Hey everyone,
+I’m trying to figure out what’s the most reliable motion graphics software for a mid-range PC.
+(Plz Don't recommend me after effect , davinci or blender )"
+JoyCast: voice clarity & noise cancellation for MacBook's microphone.,Vladimir_Yankovic,1,https://joycast.ai/,"I've just released my first macOS app: Voice clarity & noise cancellation for MacBook's microphone. 
+
+You can learn more and test it at [https://joycast.ai/](https://joycast.ai/). I welcome constructive feedback!"
+MS office standard minimal iso?,digga-wat,0,https://www.reddit.com/r/software/comments/1nvz8io/ms_office_standard_minimal_iso/,"Hi. making this short.
+
+I have an office standard 2016 iso x64 (<1GB). [non pirated] 
+
+is there an equivalent office 2019 or 2021?"
+Alternative to default Windows Camera app (that isn't OBS),Scared-Papaya4072,3,https://www.reddit.com/r/software/comments/1nvsibr/alternative_to_default_windows_camera_app_that/,"I want a camera app that lets me mirror the screen. That's literally it. I have no idea why the Camera app doesn't let you do something this simple, but it's kind of a deal breaker because it makes taking pictures a lot harder.
+
+I don't want any bloated crap or anything that makes me pay for features. I also don't need a million features, just everything the default Camera app has, with the addition of mirroring."
+Looking for walkme alternatives curious what people like,Ok_Leopard_3178,14,https://www.reddit.com/r/software/comments/1nvh2yq/looking_for_walkme_alternatives_curious_what/,"Hi,
+
+ My (new) team’s been using Walkme for a while since they’re the leader in this space but honestly it just feels heavier than it’s supposed to. I'm not sure the price really makes sense for us anymore. It does the job but maintaining it is kind of a pain to me.
+
+ Has anyone here tried Pendo, Whatfix, Appcues, Userlane, or something smaller that felt easier to use and more cost-effective? Would love to hear real experiences before we make a move! Thanks"
+[open source] Alternative to stardock fences,Reddit_Bazsi,8,https://www.reddit.com/r/software/comments/1nvj4o9/open_source_alternative_to_stardock_fences/,"[https://github.com/PinchToDebug/DeskFrame](https://github.com/PinchToDebug/DeskFrame)
+
+**features:**
+
+* 🔍 Instant search (just type while frame is focused)
+* 🎨 Fully customizable colors
+* 🌫️ Background colors with transparency
+* 👁️ Toggle hidden files and file extensions
+* 📌 Sticky + lockable frames
+* ↕️ Open/close frame toggle
+* ⚙️ Lightweight and fast
+* 🗂️ Sorting options (by name, date, type, etc.)
+* and more"
+Built an open source Google Maps Street View Panorama Scraper.,yousephx,2,https://www.reddit.com/r/software/comments/1nvq5x1/built_an_open_source_google_maps_street_view/,"With [gsvp-dl](https://github.com/yousephzidan/gsvp-dl), an open source solution written in Python, you are able to download millions of panorama images off Google Maps Street View.
+
+Unlike other existing solutions (which fail to address major edge cases), [gsvp-dl](https://github.com/yousephzidan/gsvp-dl) downloads panoramas in their correct form and size with unmatched accuracy. Using Python Asyncio and Aiohttp, it can handle bulk downloads, scaling to millions of panoramas per day.
+
+It was a fun project to work on, as there was no documentation whatsoever, whether by Google or other existing solutions. So, I documented the key points that explain why a panorama image looks the way it does based on the given inputs (mainly zoom levels).
+
+Other solutions don’t match up because they ignore edge cases, especially pre-2016 images with different resolutions. They used fixed width and height that only worked for post-2016 panoramas, which caused black spaces in older ones.
+
+The way I was able to reverse engineer Google Maps Street View API was by sitting all day for a week, doing nothing but observing the results of the endpoint, testing inputs, assembling panoramas, observing outputs, and repeating. With no documentation, no lead, and no reference, it was all trial and error.
+
+I believe I have covered most edge cases, though I still doubt I may have missed some. Despite testing hundreds of panoramas at different inputs, I’m sure there could be a case I didn’t encounter. So feel free to fork the repo and make a pull request if you come across one, or find a bug/unexpected behavior.
+
+Thanks for checking it out!
+
+Upvote9Downvote3Go to comments  
+"
+I made BentoPDF - a privacy first PDF toolkit that works fully offline Showoff Saturday,paglaulta,20,http://www.bentopdf.com,"BentoPDF runs fully in your browser. There is no uploads, no signups, or ads. Right now it can do the basics like merge, split, compress, but also a lot more (50+ tools in total). Everything happens locally on your device, so it’s fast and private.
+
+It’s still a work in progress, and I’d really appreciate any feedback on what works, what doesn’t, or what you’d want added.
+
+Thank you. "
+Software to help me copy/paste and type stuff from different windows?,Gileotine,5,https://www.reddit.com/r/software/comments/1nvgszq/software_to_help_me_copypaste_and_type_stuff_from/,"Hi everyone I'm greyson,  
+tl;dr software that can help me automate copying something from X,Y,Z box and paste it into another window in a certain format like 'X/Y/Z'
+
+I work as a data processor/data entry person at my job and everything I do is copy and paste, basically. Copy details from one window into another in a certain format. Since the things I am copying are a known/empirical quantity (they're from our systems), I figured I could use a program that can recognize what's in 'X' box and copy it over to 'X2' in the format I want.
+
+A coworker suggested TypeItIn, but I am hesitant because it looks very barebones and googling it presents no results, only a few poorly made youtube videos. I dunno how I'll self-learn like that. I'm asking for suggestions for the purposes I've described above.
+
+Thank u very much
+
+greryson"
+Is it worth studying software engineering?,Top-Smoke2795,1,https://www.reddit.com/r/software/comments/1nvlkzl/is_it_worth_studying_software_engineering/,I live in Mexico. I'm very interested in studying it.
+IsItNerfed? Sonnet 4.5 tested!,anch7,2,/r/isitnerfed/comments/1nvdxje/isitnerfed_sonnet_45_tested/,
+Trying to use my old laptop to burn CDs to no avail,Ielliotttilismith,2,https://www.reddit.com/r/software/comments/1nvcs4e/trying_to_use_my_old_laptop_to_burn_cds_to_no/,"Booted up a very slow HP Pavilion G6, which came with an optical drive that appears able to burn CDs. I've also found an old TDK CD-R80 disc which has a bunch of songs on it I don't want anymore. Yet when I go to erase the disc, the erase feature is greyed out and I can't do it. When I try to burn extra songs onto the disc (which definitely has not reached 80 minutes or 700mb), it says that the CD isn't writable.
+
+  
+Basically - does anyone have any tips or experience with this? And do people think it's an issue with the optical drive or the software, as I'm thinking of just removing the drive and getting a cable to connect it to my working laptop."
+I built a free open-source graph-making tool,MattTorrLunn,1,https://www.reddit.com/r/software/comments/1nvek23/i_built_a_free_opensource_graphmaking_tool/,"
+
+Hi everyone,
+
+I’ve been working on a project called **Evograph**, a fullstack graph creation tool that’s free and open source. The goal is to make it easy to create and customize graphs for everyday use, school projects, or workplace reports — without expensive software or a steep learning curve.
+
+**What it does:**
+
+* Create clean, customizable graphs quickly
+* Simple UI (no overcomplicated menus)
+* 100% free and open source
+
+**Why I made it:**I wanted something lightweight, accessible, and free that still produces professional-looking graphs. Most tools I found were either too limited or locked behind subscriptions, so I decided to build my own.
+
+**Try it out here:**
+
+* Live demo: [https://evograph.vercel.app/](https://evograph.vercel.app/)
+* GitHub repo: [https://github.com/MattTorrSuarr/Evograph](https://github.com/MattTorrSuarr/Evograph)
+
+I’d love for you to try it out and let me know:
+
+* What works well?
+* What’s confusing or missing?"
+"Free image editing (using AI) tool - No Login, No watemark",Appropriate-Time-527,2,https://www.reddit.com/r/software/comments/1nv5atl/free_image_editing_using_ai_tool_no_login_no/,"Hey everyone,
+
+I made a tool which you can use to edit images for free, without signing up, no AI credits required. I dont know who you are so cant email you. I dont want to email anyone. I just want to edit my images and you can too for free.
+
+In case you want to try it out - [changeimageto.com](https://www.changeimageto.com/) and let me know if you need any more options/ things i should add. :)"
+Random key presser,hopikcz1234,0,https://www.reddit.com/r/software/comments/1nva97q/random_key_presser/,i need a software that presses a random key ( even better if i can choose a list of keys that i dont want it to press ) every 5 minutes or so
+iPhone photo recovery,BasketAgitated3477,1,https://www.reddit.com/r/software/comments/1nv6k31/iphone_photo_recovery/,How do I recover permanently deleted photos from iPhone ? Please help! I tried disk drill but could only find the KB photos not MB 
+I built a simple privacy-focused temporary email service,dimil_,4,https://www.reddit.com/r/software/comments/1nuw5gl/i_built_a_simple_privacyfocused_temporary_email/,"So I built my own disposable email service:
+https://play.google.com/store/apps/details?id=com.ryzenmail.app
+
+
+Key features:
+
+One-click disposable inbox (no signup needed)
+
+Emails auto-expire after 12 hours
+
+Clean UI no annoying ads just some to keep it running without incurring costs (only appears if you use features)
+
+Privacy-first (no tracking, no logging beyond what’s necessary)
+
+
+I’m curious what this community thinks:
+
+What features would you expect in a privacy-focused temp mail service?
+
+
+Any suggestions for improvement?
+
+
+Would love your feedback 🙏"
+What everyday problems would you actually pay to have solved?,loulipap_alts,5,/r/SaaS/comments/1nus8vr/what_everyday_problems_would_you_actually_pay_to/,
+PC BSOD when installing Optitex,EdenBlessing,5,https://www.reddit.com/r/software/comments/1nury6u/pc_bsod_when_installing_optitex/,"When I'm installing Optitex the PC crashes showing the error PAGE_FAULT_IN_NONPAGED_AREA hardlock.Sys. 
+From what I could gather is a driver for Dongle keys and any of the solutions I found worked. I tried modifying the registry but couldn't find the driver there, I tried uninstalling it from the device manager but also didn't appear there. Anyone had a similar problem or knows hot to fix this problem (Sorry if phrase it wrong or there is missing info, I'm not much of a tech savvy) "
+Video Editor to Make Frame Perfect Cuts in 4K .mkv Files?,Unsungghost,2,https://www.reddit.com/r/software/comments/1nuxt9x/video_editor_to_make_frame_perfect_cuts_in_4k_mkv/,"I rip a lot of the Blurays that I have and I really don't like when streaming companies put their logos at the beginning and end of video files. Also sometimes they'll put a brand new, color, CGI intro for a black and white movie. I'd like to trim some of these logos, and I've been having trouble doing it in 4K files.
+
+I've been using VideoReDo for editing 1080p and 480p files. But it's pretty much a dead project and it doesn't work on 4K files at all. I've read a few other threads on the subject, but they're at least 3 years old, so hopefully something has come around in that time.
+
+So what are people using? I've tried a few but they all have limitations. I would really like these criteria, if possible.
+
+1. Works with 4K files
+
+2. Frame perfect cuts, not at keyframes. This is going to be the first thing appearing, I don't want it looking bugged or have audio clipped
+
+3. It would be nice if it didn't have to re-encode the entire file, just the parts around the cuts. VideoReDo does this and it makes it so much faster and preserves more quality
+
+4. Preserves and trims the subtitles as well. VideoReDo can't do this."
+pdf editen help!!,Ortel6,1,https://www.reddit.com/r/software/comments/1nv0zrg/pdf_editen_help/,"I have a large PDF document in which I need to remove specific sections on a page-by-page basis. After removing these sections, I want the remaining content on each page to automatically shift upward, maintaining the exact original layout and formatting throughout the entire document. This process should continue seamlessly from the first to the last page.
+
+I am looking for advice on how to achieve this effectively or if anyone can assist me with this task. Ideally, the solution would preserve the document’s formatting without requiring manual adjustment on every page.
+
+Thank you in advance for your help!"
+"Can't do everything 24/7? We totally understand, especially with all the workload that comes with being a business owner. It could be time to hire a 24/7 virtual receptionist and assistant!",Bling_Cloud,1,https://www.bling.cloud/blogs/hire-a-virtual-receptionist-and-assistant-now.html,
+Instagram Marketing: The accessible and convenient tool to market your business! Read all about how you can make Instagram the perfect marketing tool for your business,Bling_Cloud,1,https://www.bling.cloud/blogs/make-instagram-the-perfect-marketing-tool.html,
+TIME IS GOLD: Invest your time by maximizing! Read all about how you can maximize your time to maximize your business,Bling_Cloud,1,https://www.bling.cloud/blogs/maximize-your-time-to-maximize-your-business.html,
+Bridge the generational gap between Millennials and Zoomers: Read all about the new ways thesee two generations communicate!,Bling_Cloud,1,https://www.bling.cloud/blogs/heads-up-business-owners.html,
+Faced with setbacks? Here's how you can bounce back and get your business back on top of the game!,Bling_Cloud,1,https://www.bling.cloud/blogs/get-your-business-back-on-top.html,
+Building up the hype for your business' product launch? Apply the 3 S's of product launching for smooth and successful starts!,Bling_Cloud,1,https://www.bling.cloud/blogs/launch-your-product.html,
+Gaining Customer Loyalty to Grow Your Business: Condition Your Customers and Gain Unconditional Love for Your Business— Read all about it here!,Bling_Cloud,1,https://www.bling.cloud/blogs/condition-your-customers.html,
+Stuggling to make a breakthrough with your business? Here's how you can hype up your business and break down the barriers!,Bling_Cloud,1,https://www.bling.cloud/blogs/hype-your-business.html,
+We're here to help! What struggles/pet peeves do you deal with when managing your business?,Bling_Cloud,1,https://www.reddit.com/r/SmallBusinessProblems/comments/148gj82/were_here_to_help_what_strugglespet_peeves_do_you/,Mention below your small business pet peeves or struggles-- someone in the community may have just the perfect tip for you!
+"Starting your own business? Here are 3 Tips to Say Goodbye to Beginner Business Anxieties, & Hello to Success!",Bling_Cloud,1,https://www.bling.cloud/blogs/tips-to-reduce-anxieties.html,
+Share Your Small Business - January 2023 - Week 4 - Upvote This for Maximum Visibility!,Bling_Cloud,1,https://www.reddit.com/r/SmallBusinessProblems/comments/10j5x1g/share_your_small_business_january_2023_week_4/,"Tell us about your Small Business in a comment within this submission. Please follow this template:
+
+* **Small Business Name / URL**
+* **Location of Your Small Business**
+   * Let people know where you are based for possible local networking with you and to share local resources with you
+* **Elevator Pitch/Explainer Video**
+* **What goals are you trying to reach this month?**  
+How could [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) help?
+   * Do **NOT** solicit funds publicly
+* **Discount for** [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) **subscribers?**
+   * Share how our community can get a discount"
+"Can someone enlighten me if cryptocurrencies can be helpful to small businesses? If yes, how? If not, why?",Royal-Traffic8551,1,https://www.reddit.com/r/SmallBusinessProblems/comments/10ewxwb/can_someone_enlighten_me_if_cryptocurrencies_can/,
+Share Your Small Business - January 2023 - Week 3 - Upvote This for Maximum Visibility!,Bling_Cloud,2,https://www.reddit.com/r/SmallBusinessProblems/comments/10e7l99/share_your_small_business_january_2023_week_3/,"Tell us about your Small Business in a comment within this submission. Please follow this template:
+
+* **Small Business Name / URL**
+* **Location of Your Small Business**
+   * Let people know where you are based for possible local networking with you and to share local resources with you
+* **Elevator Pitch/Explainer Video**
+* **What goals are you trying to reach this month?**  
+How could [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) help?
+   * Do **NOT** solicit funds publicly
+* **Discount for** [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) **subscribers?**
+   * Share how our community can get a discount"
+Share Your Small Business - January 2023 - Week 2 - Upvote This for Maximum Visibility!,Bling_Cloud,2,https://www.reddit.com/r/SmallBusinessProblems/comments/107yiy4/share_your_small_business_january_2023_week_2/,"Tell us about your Small Business in a comment within this submission. Please follow this template:
+
+* **Small Business Name / URL**
+* **Location of Your Small Business**
+   * Let people know where you are based for possible local networking with you and to share local resources with you
+* **Elevator Pitch/Explainer Video**
+* **What goals are you trying to reach this month?**  
+How could [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) help?
+   * Do **NOT** solicit funds publicly
+* **Discount for** [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) **subscribers?**
+   * Share how our community can get a discount"
+Share Your Small Business - January 2023 - Week 1 - Upvote This for Maximum Visibility!,Bling_Cloud,2,https://www.reddit.com/r/SmallBusinessProblems/comments/1021atr/share_your_small_business_january_2023_week_1/," Tell us about your Small Business in a comment within this submission. Please follow this template:
+
+* **Small Business Name / URL**
+* **Location of Your Small Business**
+   * Let people know where you are based for possible local networking with you and to share local resources with you
+* **Elevator Pitch/Explainer Video**
+* **What goals are you trying to reach this month?**  
+How could [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) help?
+   * Do **NOT** solicit funds publicly
+* **Discount for** [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) **subscribers?**
+   * Share how our community can get a discount"
+Question for Small Business Owners - What legal aspects do I need to consider if I were to start a business?,Bling_Cloud,2,https://www.reddit.com/r/SmallBusinessProblems/comments/zx16zk/question_for_small_business_owners_what_legal/,
+Share Your Small Business - December 2022 - Week 4 - Upvote This for Maximum Visibility!,Bling_Cloud,2,https://www.reddit.com/r/SmallBusinessProblems/comments/zwbodj/share_your_small_business_december_2022_week_4/,"Tell us about your Small Business in a comment within this submission. Please follow this template:
+
+* **Small Business Name / URL**
+* **Location of Your Small Business**
+   * Let people know where you are based for possible local networking with you and to share local resources with you
+* **Elevator Pitch/Explainer Video**
+* **What goals are you trying to reach this month?**
+   * How could [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) help?
+   * Do **NOT** solicit funds publicly
+* **Discount for** [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) **subscribers?**
+   * Share how our community can get a discount"
+Is it better to use Print-On-Demand Companies (such as Printful or Printify) if I want to start a Clothing Line or should I invest on personal machinery?,Royal-Traffic8551,1,https://www.reddit.com/r/SmallBusinessProblems/comments/zr93jv/is_it_better_to_use_printondemand_companies_such/,
+"Small Business Owners, please share with us your Small Business Experience, Successes, Failures, AMAs, Best Tips, and Mistakes Learned - Week 3 of December 2022",Bling_Cloud,1,https://www.reddit.com/r/SmallBusinessProblems/comments/zqcr7n/small_business_owners_please_share_with_us_your/,"This post welcomes:
+
+* Small Business anecdotes
+* AMAs
+* Best Tips
+* Mistakes learned
+* Links to outstanding educational materials (with explanations and/or an extract of the content)"
+Share Your Small Business - December 2022 - Week 3 - Upvote This for Maximum Visibility!,Bling_Cloud,1,https://www.reddit.com/r/SmallBusinessProblems/comments/zpgjiz/share_your_small_business_december_2022_week_3/,"Tell us about your Small Business in a comment within this submission. Please follow this template:
+
+* **Small Business Name / URL**
+* **Location of Your Small Business**
+   * Let people know where you are based for possible local networking with you and to share local resources with you
+* **Elevator Pitch/Explainer Video**
+* **What goals are you trying to reach this month?**
+   * How could [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) help?
+   * Do **NOT** solicit funds publicly
+* **Discount for** [r/SmallBusinessProblems](https://www.reddit.com/r/SmallBusinessProblems) **subscribers?**
+   * Share how our community can get a discount"
